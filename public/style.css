@@ -1,0 +1,7 @@
+:root {
+  --bs-body-font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.sorting::before {
+  bottom: 22px !important;
+}
